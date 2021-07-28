@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning React Native Framework
 <!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
+- 🤔 I’m looking for help with ... -->
+- 💬 My Gist : https://gist.github.com/Dewii7
 - 📫 How to reach me: goddess.guy@gmail.com
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I like to eat but I'm afraid of getting fat
